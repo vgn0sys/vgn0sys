@@ -2,12 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=31a097&amp;text=ndis0sys&amp;textBg=false&amp;fontAlignY=40&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;section=header" />
 </p>
 
-Инженер по информационной безопасности  
-Начинающий специалист по тестированию на проникновение
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&duration=2000&pause=1000&color=31A097&width=435&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!)](https://git.io/typing-svg)
 
-## Кратко
-Работаю в области информационной безопасности.  
-Параллельно развиваю практические навыки тестирования на проникновение и эксплуатации уязвимостей в контролируемых средах.
+<h2 align="left">
+Всем привет
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+Я инженер по информационной безопасности и начинающий специалист по тестированию на проникновение. Развиваю практические навыки тестирования на проникновение и эксплуатации уязвимостей в контролируемых средах.
 
 ## Направления
 
