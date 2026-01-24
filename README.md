@@ -27,12 +27,13 @@
 <img src="https://img.shields.io/badge/Microsoft_Defender-000000?style=for-the-badge&logo=microsoftdefender&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=31a097"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/DLP-000000?style=for-the-badge&logo=codementor&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=31a097"/>
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=31a097"/>
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=31a097"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=31a097"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=hackthebox&logoColor=31a097"/>
 <img src="https://img.shields.io/badge/Web_Security-000000?style=for-the-badge&logo=burpsuite&logoColor=31a097"/>
@@ -50,6 +51,10 @@
 - фиксации практики
 - публикации учебных проектов
 - развития offensive-навыков
+
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=31a097&section=footer" />
